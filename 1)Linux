@@ -1,0 +1,37 @@
+WHAT IS LINUX ?
+The Linux is a type of operating system that is similar to Unix, and it is built upon the Linux Kernel. 
+Linux is free and open-source, making it accessible to everyone.
+Linux has grown into a dependable and safe OS that is used in an array of gadgets, including PCs, cell phones, and huge supercomputers.
+Linus Torvalds designed the free and open-source Linux operating system kernel in 1991.
+
+=============================================================================================================================================
+WHAT IS HARDWARE LAYER?
+The hardware layer is the lowest level of the Linux operating system and forms the foundation on which all other components operate. 
+It consists of physical devices and low-level controls that allow the system to function efficiently and reliably.
+
+Includes physical components such as CPU, memory, storage, and I/O devices
+Works with device drivers to enable hardware communication
+Supports memory access, CPU control, and I/O operations
+Ensures stable and efficient interaction between hardware and the operating system
+
+===============================================================================================================================================
+WHAT IS KERNEL ?
+The Linux is a type of operating system that is similar to Unix, and it is built upon the Linux Kernel. 
+Linux is free and open-source, making it accessible to everyone.
+Linux has grown into a dependable and safe OS that is used in an array of gadgets, including PCs, cell phones, and huge supercomputers.
+Linus Torvalds designed the free and open-source Linux operating system kernel in 1991.
+
+==============================================================================================================================================
+WHAT IS SHELL ?
+The shell is the user interface of the Linux Operating System. 
+It allows users to interact with the system by entering commands, which the shell interprets and executes. 
+The shell serves as a bridge between the user and the kernel, forwarding the user's requests to the kernel for processing. 
+It provides a convenient way for users to perform various tasks, such as running programs, managing files, and configuring the system.
+
+==============================================================================================================================================
+LINUX ADVANTAGES
+Open Source: Source code is functional as it is an open-source system. The operating system is customizable for students of programming. The user can contribute, alter, and improve the code as per their use.
+Security: Security comes first in IT. Linux offers such security reasons that it is a promising option for developers. Linux is less vulnerable than other OS. 
+Free to use: Linux is free to use is no need to buy a special license. We can get it under a General Public license. One needs to pay a high amount for other OS licenses.
+GUI: Although Linux is a command-line operating system but provides a Graphical User Interface or GUI like Windows.
+
