@@ -1,14 +1,13 @@
 VI Editor
 ===========
-
 Windows
-==========
+|
 Notepad
 Notepad++
 
+==========
 Linux
-=======
-
+|
 CLI - vi,vim,nano,ex
 GUI - getit,gvim,picp,netit,emacs
 
